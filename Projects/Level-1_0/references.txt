@@ -1,0 +1,2 @@
+https://www.yld.io/blog/building-a-tcp-service-using-node-js/
+https://realpython.com/python-sockets/
