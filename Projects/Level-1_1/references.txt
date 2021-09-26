@@ -1,0 +1,7 @@
+NodeJS
+https://scotch.io/@devGson/building-a-tcp-chat-server-with-node332
+https://nodejs.org/api/net.html
+
+Python
+https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
+https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
